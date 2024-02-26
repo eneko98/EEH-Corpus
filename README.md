@@ -1,6 +1,6 @@
 # Egungo Euskararen Hiztegia (EEH) Corpus
 
-This repository hosts a corpus derived from the Egungo Euskararen Hiztegia (EEH), a comprehensive Basque dictionary. The original dictionary data, in SQL format, was obtained from [Euskal Herriko Unibertsitatea](https://www.ehu.eus/eeh/), and has been processed into a JSON format to facilitate natural language processing and machine learning tasks. The corpus encompasses 69,538 words, with each entry featuring the word, its definition, and example sentences (where applicable).
+This repository hosts a corpus derived from the Egungo Euskararen Hiztegia (EEH), a comprehensive Basque dictionary. The original dictionary data, in SQL format, was obtained from [Egungo Euskararen Hiztegia](https://www.ehu.eus/eeh/), and has been processed into a JSON format to facilitate natural language processing and machine learning tasks. The corpus contains 69,538 words, with each entry featuring the word, its definition, and example sentences (where applicable).
 
 ## Contents
 
